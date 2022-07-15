@@ -1,2 +1,2 @@
 # kademlia
-JOB Interview Demo Code
+Refactor kademlia p2p algorithm for linux system.
